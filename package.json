@@ -1,0 +1,22 @@
+{
+  "name": "shopee-single-scrapper",
+  "version": "1.0.0",
+  "description": "Shopee single product scrape using node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node",
+    "scrapper"
+  ],
+  "author": "cantdocpp",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.3",
+    "cloudinary": "^1.22.0",
+    "dotenv": "^8.2.0",
+    "excel4node": "^1.7.2",
+    "puppeteer": "^4.0.0"
+  }
+}
